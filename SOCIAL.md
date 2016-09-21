@@ -40,7 +40,7 @@ auth clients**
                 'consumerSecret' => 'yyyyyyyyyy',
             ],
             'google' => [
-                'class' => 'yii\authclient\clients\GoogleOAuth',
+                'class' => 'yii\authclient\clients\Google',
                 'clientId' => 'xxxxxxxxxx',
                 'clientSecret' => 'yyyyyyyyyy',
             ],
